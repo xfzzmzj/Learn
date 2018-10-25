@@ -1,6 +1,10 @@
 # Learn
 学习笔记
 
+# Commit 规范 Anglar规范  
+http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+
+
 # vim
 点击 Esc 键，Vim 进入命令模式。然后输入：  
 :q  ——退出（这是 :quit 的缩写）  
