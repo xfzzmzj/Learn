@@ -1,6 +1,9 @@
 # Learn
 学习笔记
 
+# 廖雪峰  
+https://www.liaoxuefeng.com/
+
 # Commit 规范 Anglar规范  
 http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
 
